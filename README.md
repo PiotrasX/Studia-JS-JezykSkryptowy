@@ -1,2 +1,2 @@
-# Studia-JS-JezykSkryptowy
+# Studia - JS - Język Skryptowy
 Opis głowny

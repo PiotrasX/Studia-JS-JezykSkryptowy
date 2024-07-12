@@ -1,0 +1,5 @@
+Tekst w 1 linii w pliku
+Tekst w 2 linii w pliku
+Tekst w 3 linii w pliku
+Tekst w 4 linii w pliku
+Tekst w 5 linii w pliku

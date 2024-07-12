@@ -1,0 +1,48 @@
+a = 1.1		b = 2.2		c = 3.3
+Delta mniejsza od 0.
+Brak rozwi¹zania w zbiorze liczb rzeczywistych.
+
+a = 1.0		b = 5.0		c = 2.0
+Delta wiêksza od 0.
+Dwa rozwi¹zania w zbiorze liczb rzeczywistych.
+x1 = -4.561552812808831
+x2 = -0.4384471871911697
+
+a = 0.0		b = 4.0		c = 3.2
+To nie jest równanie kwadratowe, poniewa¿ a = 0.
+
+a = -1.0		b = 3.0		c = 2.0
+Delta wiêksza od 0.
+Dwa rozwi¹zania w zbiorze liczb rzeczywistych.
+x1 = 3.5615528128088303
+x2 = -0.5615528128088303
+
+a = 1.0		b = 3.0		c = 2.0
+Delta wiêksza od 0.
+Dwa rozwi¹zania w zbiorze liczb rzeczywistych.
+x1 = -2.0
+x2 = -1.0
+
+a = 1.0		b = 2.0		c = 1.0
+Delta równa 0.
+Jedno rozwi¹zanie w zbiorze liczb rzeczywistych.
+x = -1.0
+
+a = 0.0		b = 4.4		c = 5.5
+To nie jest równanie kwadratowe, poniewa¿ a = 0.
+
+a = 1.0		b = 3.0		c = 2.0
+Delta wiêksza od 0.
+Dwa rozwi¹zania w zbiorze liczb rzeczywistych.
+x1 = -2.0
+x2 = -1.0
+
+a = 1.0		b = 2.0		c = 1.0
+Delta równa 0.
+Jedno rozwi¹zanie w zbiorze liczb rzeczywistych.
+x = -1.0
+
+a = 1.0		b = 1.0		c = 4.0
+Delta mniejsza od 0.
+Brak rozwi¹zania w zbiorze liczb rzeczywistych.
+

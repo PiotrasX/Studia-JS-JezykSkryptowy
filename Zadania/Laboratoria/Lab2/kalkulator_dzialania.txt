@@ -1,6 +1,0 @@
-1.0 + 2.0 = 3.0
-3.5 - 1.5 = 2.0
-3.5 * 5.0 = 17.5
-5.0 / 3.0 = 1.6666666666666667
-Pole ko³a o promieniu 3.0 wynosi 28.27
-Obwód ko³a o promieniu 7.0 wynosi 43.98

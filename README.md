@@ -1,2 +1,4 @@
 # Studia - JS - Język Skryptowy
-Opis głowny
+Opis 1  
+Opis 2  
+Opis 3  

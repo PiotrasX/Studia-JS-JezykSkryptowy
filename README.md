@@ -31,7 +31,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Język
   - Generatory, dekoratory, rekurencja.  
 - Programowanie obiektowe:  
   - Klasy, dziedziczenie, polimorfizm.  
-  - Użycie metod: __init__, __str__, __add__, __len__, __getitem__.  
+  - Użycie metod: init, str, add, len, getitem.  
 - Wizualizacja danych:  
   - Tworzenie wykresów liniowych, punktowych, słupkowych i kołowych.  
   - Obsługa wielu osi i podwykresów.  

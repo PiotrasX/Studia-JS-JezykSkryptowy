@@ -32,7 +32,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Język
 - Programowanie obiektowe:  
   - Definiowanie klas i metod.  
   - Dziedziczenie i polimorfizm.  
-  - Użycie metod specjalnych: \_\_init__, \_\_str__, \_\_add__, \_\_len__, \_\_getitem__.  
+  - Użycie metod specjalnych: \_\_init\_\_, \_\_str\_\_, \_\_add\_\_, \_\_len\_\_, \_\_getitem\_\_.  
 - Wizualizacja danych:  
   - Tworzenie wykresów liniowych, punktowych, słupkowych i kołowych.  
   - Formatowanie stylu wykresów.  

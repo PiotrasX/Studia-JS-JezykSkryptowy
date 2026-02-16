@@ -25,14 +25,14 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Język
   - Zmienne, typy danych, operatory, instrukcje warunkowe i pętle.  
   - Funkcje, argumenty, zwracanie wartości.  
   - Moduły, importowanie bibliotek, obsługa błędów.  
-  - Operacje na stringach, listach, krotkach, słownikach i tablicach.  
+  - Operacje na stringach, listach, krotkach i słownikach.  
 - Programowanie funkcyjne:  
   - Funkcje wyższego rzędu: lambda, map, filter.  
   - Generatory, dekoratory, rekurencja.  
 - Programowanie obiektowe:  
   - Definiowanie klas i metod.  
   - Dziedziczenie i polimorfizm.  
-  - Użycie metod specjalnych: __init__, __str__, __add__, __len__, __getitem__.  
+  - Użycie metod specjalnych: ```__init__, __str__, __add__, __len__, __getitem__```.  
 - Wizualizacja danych:  
   - Tworzenie wykresów liniowych, punktowych, słupkowych i kołowych.  
   - Formatowanie stylu wykresów.  

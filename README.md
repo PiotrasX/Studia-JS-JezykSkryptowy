@@ -1,6 +1,6 @@
 # 📘 Studia - JS - Język Skryptowy
 
-Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Język Skryptowy**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów informatycznych.  
+Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Język Skryptowy**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów inżynierskich na kierunku Informatyka.  
 
 &nbsp;  
 
@@ -8,14 +8,14 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Język
 
 ## 📁 Struktura repozytorium
 
-- `Zadania` – Zadania realizowane na zajęciach oraz samodzielnie. Zakres obejmuje podstawy języka Python, programowanie funkcyjne i obiektowe, operacje na danych oraz tworzenie wykresów z użyciem biblioteki "matplotlib".  
+- `Zadania/LabX` – Zadania realizowane podczas zajęć laboratoryjnych oraz samodzielnie. Obejmują podstawy języka Python, elementy programowania funkcyjnego i obiektowego, operacje na strukturach danych oraz wizualizację danych z wykorzystaniem bibliotek numpy i matplotlib.  
 
 ---
 
 ## ⚙️ Wykorzystane technologie
 
-- `Język programowania:` Python.  
-- `IDE:` PyCharm Community Edition.  
+- `Technologie:` Python.  
+- `Środowiska programistyczne (IDE):` PyCharm Community Edition.  
 
 ---
 
@@ -30,11 +30,14 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Język
   - Funkcje wyższego rzędu: lambda, map, filter.  
   - Generatory, dekoratory, rekurencja.  
 - Programowanie obiektowe:  
-  - Klasy, dziedziczenie, polimorfizm.  
+  - Definiowanie klas i metod.  
+  - Dziedziczenie i polimorfizm.  
   - Użycie metod: init, str, add, len, getitem.  
 - Wizualizacja danych:  
   - Tworzenie wykresów liniowych, punktowych, słupkowych i kołowych.  
-  - Obsługa wielu osi i podwykresów.  
+  - Formatowanie stylu wykresów.  
+  - Tworzenie podwykresów.  
+  - Praca z wieloma osiami i figurami.  
 
 ---
 

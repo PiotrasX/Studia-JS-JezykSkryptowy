@@ -1,4 +1,4 @@
-# 📘 Studia – JS - Język Skryptowy
+# 📘 Studia – JS – Język Skryptowy
 
 Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Język Skryptowy**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów inżynierskich na kierunku Informatyka.  
 
